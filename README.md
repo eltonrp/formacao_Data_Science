@@ -14,7 +14,7 @@ Fonte: [https://www.cetax.com.br/blog/data-science/](https://www.cetax.com.br/bl
 ### Propósito
 
 Esse repositório é destinado exclusivamente para estudos.  
-O propósito é armazenar de forma organizada todo o material de estudo em relação ao tema, além de melhorar a fixação, permitir uma consulta rápida e ainda compartilhar com qualquer pessoa que também estuda o assunto.
+O propósito é armazenar de forma organizada todo o material de estudo em relação ao tema, além de melhorar a fixação do conteúdo e permitir consultas rápidas.
 
 ### Organização
 
